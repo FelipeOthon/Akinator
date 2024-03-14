@@ -34,3 +34,5 @@ O animal tem hábitos migratórios?
 O animal é um predador?
 O animal é social?
 O animal é herbívoro?
+
+
